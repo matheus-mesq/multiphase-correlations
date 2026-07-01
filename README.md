@@ -22,4 +22,4 @@ O usuário do código deve fornecer os valores de tais variáveis de entrada par
 
 De posse dos arquivos deste repositório, ao se executar o arquivo execute_teste.py, uma das figuras obtidas é a seguinte:
 
-![dP_versus_Testes](dP versus Testes.png)
+![dP_versus_Testes](dP%20versus%20Testes.png)
