@@ -31,4 +31,4 @@ Em relação à próxima figura, esta se trata de um gráfico de barras que most
 
 Por fim, a figura abaixo apresenta outro gráfico comparativo entre os valores de queda de pressão calculados e experimentais. Os pontos vermelhos sãoo referentes aos valores calculados, enquanto que os pontos verdes representam os valores experimentais. E possível verificar que ocorre um maior afastamento entre os pontos verdes e vermelhos em valores de queda de pressão mais elevados, indicando maior erro absoluto para tais valores, o que pode ser observado também na primeira figura apresentada na qual, para os primeiros testes feitos, houve maior distanciamento entre as curvas azul e laranja. O distanciamento entre os pontos vermelhos e verdes da figura abaixo também podem ser atribuídos a aproximações de cálculo e às limitações da correlação de BEGGS e BRILL (1973).
 
-![dP_exp versus dP_calc](dP_exp20%versus20%dP_calc.png)
+![dP_exp versus dP_calc](dP_exp%20versus%20dP_calc.png.png)
